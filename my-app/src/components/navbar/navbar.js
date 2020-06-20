@@ -28,7 +28,9 @@ export default function App() {
       <Nav.Link href="/contact" >
        Contact
       </Nav.Link>
+      
     </Nav.Item>
+    
         </Nav>
 
         {/* A <Switch> looks through its children <Route>s and
